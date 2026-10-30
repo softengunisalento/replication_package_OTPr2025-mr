@@ -1,0 +1,83 @@
+label	replace by
+access control	
+adaptive security	
+anonymous credential	
+applied cryptography	
+arithmetic garbled circuits	garbled circuits
+bilinear diffie-hellman	diffie-hellman
+blockchain	cloud computing
+cash-like	e-cash
+circuit garbling	garbled circuits
+cloud storage	cloud computing
+communication round complexity	
+conjugate coding	
+constant round mpc	multiparty computation
+copy-protection	
+cryptographic protocol	cryptography
+data access and usage control	
+data-hiding states	
+delegatable signatures	delegation
+disposable message authentication codes	cryptography
+double-spending	
+ecdsa	
+electronic money	e-cash
+error correction	
+fido	
+garbling	garbled circuits
+garbling schemes	garbled circuits
+hardware design	
+hardware tokens	
+hybrid quantum cryptography	quantum
+idealized model	
+information theory	information theory
+information-theoretical security	information theory
+isolation assumption	
+laconic ot	
+local operations and classical communication (locc)	local operations and classical communication
+majorana zero mode	quantum
+mobile	
+multiparty garbling	garbled circuits
+no-cloning	
+non-interactive mpc	
+obfuscation	
+oblivious ram	
+oblivious transfer	
+one-shot signatures	
+one-time backdoors	
+one-time device	
+one-time memories	one-time memory
+one-time program	one-time programs
+online/offline twoparty computation	
+otp	one-time programs
+p2p	
+policy compliance	
+privacy	
+provable security	
+pseudorandom functions	
+puf	physically unclonable functions
+quantum computation	quantum
+quantum cryptography	quantum
+quantum money	quantum
+randomized encodings	
+read-once keys	
+reflective architecture	
+reusable garbled computation	garbled circuits
+rot	
+secret sharing	
+secure computation	multiparty computation
+secure function evaluation	multiparty computation
+secure two-party computation	multiparty computation
+security	
+set membership encryption	
+signature	
+single-use delegation	
+smart contracts	smart contract
+tamper-proof hardware	
+tee	trusted execution environment
+trusted execution	trusted execution environment
+trusted hardware	trusted execution environment
+uc security	
+unclonable cryptography	quantum
+universal composability	
+webauth	
+yao's protocol	garbled circuits
